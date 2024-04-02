@@ -28,7 +28,7 @@ menu();
 void menu()
 {
 int choice;
-printf("\n\nChoose following operation what you perform in Circular Array. \nGive the input as integer from 1 to 7. \n");
+printf("\n\nChoose following operation what you perform in Circular Queue. \nGive the input as integer from 1 to 7. \n");
 printf("\n<<<< Menu >>>>\n");
 printf("1. INITIALIZE QUEUE.\n");
 printf("2. ENQUEQUE.\n");
