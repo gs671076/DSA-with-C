@@ -30,7 +30,7 @@ void main()
 void menu()
 {
     int choice;
-printf("\n\nChoose following operation what you perform in array. \nGive the input as integer from 1 to 7. \n");
+printf("\n\nChoose following operation what you perform in Stack. \nGive the input as integer from 1 to 7. \n");
 printf("\n<<<<<  Menu  >>>>>\n");
 printf("1. Push the element in Stack.\n");
 printf("2. Traverse the element of Stack.\n");
