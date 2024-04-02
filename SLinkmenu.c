@@ -21,7 +21,7 @@ printf("\n\t<< STACK IMPLEMENTATION USING LINKLIST >>\n");
 void menu()
 {
     int choice;
-printf("\n\nChoose following operation what you perform in array. \nGive the input as integer from 1 to 7. \n");
+printf("\n\nChoose following operation what you perform in Stack. \nGive the input as integer from 1 to 7. \n");
 printf("\n<<<< Menu >>>>\n");
 printf("1. Initialize Stack.\n");
 printf("2. Push the element in Stack.\n");
