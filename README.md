@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gaurav soni 
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning java , html
+- Coding is easy.
+- it is fun just enjoy it.
+  
   
 <!---
 gs671076/gs671076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
